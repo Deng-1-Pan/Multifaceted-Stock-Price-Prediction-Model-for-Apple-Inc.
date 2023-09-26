@@ -49,6 +49,6 @@ This Figure shows a scatter-plot that visually represents the relationships betw
 
 This plot shows the predictions that using Prophet model with SP500 data added to it.
 
-![jointplot](img/jointplot_Close_SP500_train.png)
+![jointplot](img/jointplot_Close_SP500_test.png)
 
 This plot shows the joint-plot between actual data and pridictive data.
