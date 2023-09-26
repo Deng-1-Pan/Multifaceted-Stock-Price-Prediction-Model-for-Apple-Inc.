@@ -37,18 +37,18 @@ This report discusses the use of machine learning models and data related to the
 
 ## Result
 
-![[img/heatmap.png]]
+![heatmap](img/heatmap.png)
 
 The heat map in Fig 10 shows the correlation between different types of data.
 
-![[img/scatter_matrix.png]]
+![Scatter_matrix](img/scatter_matrix.png)
 
 This Figure shows a scatter-plot that visually represents the relationships between the individual data points
 
-![[img/predictions_Close_SP500.png]]
+![predictions](img/predictions_Close_SP500.png)
 
 This plot shows the predictions that using Prophet model with SP500 data added to it.
 
-![[img/jointplot_Close_SP500_train.png]]
+![jointplot](img/jointplot_Close_SP500_train.png)
 
 This plot shows the joint-plot between actual data and pridictive data.
